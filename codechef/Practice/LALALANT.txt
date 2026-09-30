@@ -1,0 +1,8 @@
+// Problem: LALALANT
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/icpc/ICPCTR28/problems/LALALANT
+// Solved on: 2026-09-30T06:43:15.969Z
+
+# cook your dish here
