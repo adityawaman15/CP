@@ -1,0 +1,8 @@
+// Problem: TRGRPH
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/icpc/ICPCTR28/problems/TRGRPH
+// Solved on: 2026-09-30T06:42:20.430Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
