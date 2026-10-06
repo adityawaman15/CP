@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/ANANTYA26R1/problems/PANSTACK
-// Solved on: 2026-10-06T13:42:43.594Z
+// Solved on: 2026-10-06T13:53:00.006Z
 
 #include <bits/stdc++.h>
 using namespace std;
