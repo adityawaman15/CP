@@ -3,6 +3,12 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/ANANTYA26R1/problems/CNTHEX
-// Solved on: 2026-10-06T14:05:35.508Z
+// Solved on: 2026-10-06T15:12:43.431Z
 
-// source not captured automatically - copy it from the editor and use Manual Push
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+
+}
