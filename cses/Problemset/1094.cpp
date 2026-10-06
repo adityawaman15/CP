@@ -2,8 +2,8 @@
 // Platform: cses
 // Language: unknown
 // Verdict: ACCEPTED
-// URL: https://cses.fi/problemset/result/18981824/
-// Solved on: 2026-10-06T06:13:58.421Z
+// URL: https://cses.fi/problemset/result/18981841/
+// Solved on: 2026-10-06T06:15:06.070Z
 
     #include <bits/stdc++.h>
     using namespace std;
@@ -23,6 +23,8 @@
             cin >> arr[i];
             if(arr[i] < arr[i-1]){
                 count += arr[i-1] - arr[i];
+                arr[i] += arr[i-1] - arr[i];
+                
             }
         }
         cout << count;
