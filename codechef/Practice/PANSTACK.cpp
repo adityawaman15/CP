@@ -3,10 +3,19 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/ANANTYA26R1/problems/PANSTACK
-// Solved on: 2026-10-06T13:55:34.013Z
+// Solved on: 2026-10-06T14:06:07.169Z
 
 #include <bits/stdc++.h>
 using namespace std;
+
+
+int solve(int N){
+    if(N == 1){
+        return 1;
+    }
+    
+    return (N +solve(N-1))%1000000007;
+}
 
 int main() {
 	ios::sync_with_stdio(0);
@@ -25,7 +34,7 @@ int main() {
 	        ans = ((ans%1000000007)*(i%1000000007))%1000000007;
 	    }
 	    
-	    cout << ans << "\n";
+	    cout << solve(N) << "\n";
 	}
 
 }
