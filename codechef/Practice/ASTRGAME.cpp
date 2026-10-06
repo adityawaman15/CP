@@ -3,7 +3,7 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/ANANTYA26R1/problems/ASTRGAME
-// Solved on: 2026-10-06T15:06:58.308Z
+// Solved on: 2026-10-06T15:14:18.924Z
 
 #include <bits/stdc++.h>
 using namespace std;
