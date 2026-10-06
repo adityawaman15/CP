@@ -3,19 +3,6 @@
 // Language: C++​
 // Verdict: Accepted
 // URL: https://www.codechef.com/ANANTYA26R1/problems/ASTRGAME
-// Solved on: 2026-10-06T13:53:11.173Z
+// Solved on: 2026-10-06T15:00:42.751Z
 
-3
-codechef
-2
-code
-chef
-foo
-1
-bar
-mississippi
-4
-ssissi
-mippi
-mi
-ppi
+// source not captured automatically - open the solution page and copy it manually
